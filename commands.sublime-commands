@@ -1,0 +1,9 @@
+[
+	{
+		"caption": "UserID: decode",
+		"command": "decode"
+	}, {
+		"caption": "UserID: encode",
+		"command": "encode"
+	}
+]
